@@ -1,0 +1,15 @@
+public class HelloWorldWithMethod {
+    
+    public static void m1() {
+        System.out.println("Hello, World!");
+    }
+
+     public static void m2() {
+        System.out.println("Hello, World!");
+    }
+
+    public static void main(String[] args) {
+        m1();
+        m2();
+    }
+}
